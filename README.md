@@ -1,10 +1,12 @@
 # Hotcode Swapping Example
 
-(Exemplo1 do Medium)[https://medium.com/blackode/how-to-perform-hot-code-swapping-in-elixir-afc824860012]
-(Exemplo2 do Medium - Destillary)[https://medium.com/blackode/how-to-perform-hot-code-swapping-using-distillery-2-a-live-demo-genserver-state-update-53d8344d9147]
+[ Exemplo1 do Medium ]( https://medium.com/blackode/how-to-perform-hot-code-swapping-in-elixir-afc824860012 )
+[ Exemplo2 do Medium - Destillary ]( https://medium.com/blackode/how-to-perform-hot-code-swapping-using-distillery-2-a-live-demo-genserver-state-update-53d8344d9147 )
 
 
-## Run(Before rename lib/demo_server_v2.ex to demo_server_v2.txt)
+## Run
+
+### Before rename lib/demo_server_v2.ex to demo_server_v2.txt)
 
 
 ```iex -S Mix
